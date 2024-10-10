@@ -9,3 +9,11 @@ usethis::use_git()
 #Conectar com github
 
 usethis::use_github()
+
+usethis::use_git_remote("origin", url = NULL, overwrite = TRUE)
+
+usethis::use_git_remote("origin", url = "git@github.com:biblang/ufprlab.git")
+
+usethis::use_github()
+
+#teste
