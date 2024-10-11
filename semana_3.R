@@ -81,4 +81,7 @@ mosaicplot(HairEyeColor, col = cores)
 mosaicplot(table(v1,v2), col = "violet")
 
 
+#   TESTANDO COMMIT
+
+
 
